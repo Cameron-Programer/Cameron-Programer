@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cameron-Programer
 - 👀 I’m interested in Python and C++
-- 🌱 I’m currently learning Python and C++ with unity 
+- 🌱 I’m currently learning Python and C++ 
 - 💞️ I’m looking to collaborate on Nothing 
 - 📫 How to reach me: Discord [GB] Cameron#4063
 <!---
