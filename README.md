@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cameron-Programer
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python and Pygame
 - 💞️ I’m looking to collaborate on Nothing 
 - 📫 How to reach me: Discord [GB] Cameron#4063
 - 🏫 Currently studying: GCSE Computer Science and iGCSE Buisness Studies 
