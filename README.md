@@ -1,9 +1,3 @@
-<details><summary>⚠️Away for 3 Months</summary><br/>  
-  
-I'm currently studying for exams in May & June. I will be back in July   
-
-</details>     
-
 - 📱 Hi, I’m Cameron
 - 📚 I’m currently learning Python 
 - 💻 I have some experiance using: Python and Lua
