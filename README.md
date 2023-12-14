@@ -2,7 +2,7 @@
 - 📚 I’m currently learning Python and Facial recognition
 - 💻 I have some experiance using: Python
 - 📦 I have some experiance using the pip packages: Pygame and EasyGUI
-- 📫 How to reach me; Discord: gbcameron or Email: nitrous.muzzle-0w@icloud.com (relay email)
+- 📫 How to reach me: Email: nitrous.muzzle-0w@icloud.com (relay email)
 - 🏫 Currently studying; A level: Computer science, Music Tech and Buisiness 
 <details><summary>Examples of code</summary><br/>  
   
