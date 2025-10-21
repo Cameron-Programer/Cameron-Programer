@@ -2,7 +2,8 @@
 - 📚 I’m currently learning: Java, JavaScript, HTML
 - 💻 I have experiance using: Python
 - 📦 I have some experiance using the packages: Tkinter and SQLite
-- 📫 How to reach me: Email: nitrous.muzzle-0w@icloud.com (NOTE: This is a relay address, you may recive a responce from a diffrent address) 
+- 📫 How to reach me: Email: nitrous.muzzle-0w@icloud.com
+- ```(NOTE: This is a relay address, you may recive a responce from a diffrent address) ```
 - 🏫 Currently studying; Software Eng (BSc) 
 
 <!---
